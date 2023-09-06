@@ -60,10 +60,20 @@ Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스�
 - 부모와 베이비 시터, 어르신과 요양 보호사 등 특정 그룹들을 위한 매칭 기능
 - 임산부 및 육아 지원과 노인 대상 정책 안내를 위한 페이지 연동 기능
 - 임산부 요가 및 노인 스트레칭 콘텐츠 제공과 자세 모니터링을 위한 헬스 케어 기능
+
 <br>
 
 ## ⭐ 기대효과 및 활용분야
-
+1. 고용 창출과 경제 활성화
+2. 고령 인구 자원 활용
+3. 육아와 양질의 양로 지원
+4. 건강 증진
+5. 소통의 기회 제공
+6. 정부 및 지자체 지원
+7. 비영리 단체와 협력
+8. 커뮤니티 활동과 마케팅
+9. 연구 및 데이터 분석 활용
+10. 지속적인 개선과 확장
 <br>
 
 ## 📌 Commit Convention
@@ -79,7 +89,25 @@ Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스�
 <br>
 
 ## 📌 사용 오픈소스 목록
+<details>
+<summary>목록 보기</summary>
+<div markdown="1">       
+- react.js
+- tailwind css
+- NodeJS
+- npm
+- axios
+- jquery
+- Spring Framework
+- mysql
+- swagger
+- jasypt
+- lombok
+- jsoup
+- Docker
 
+</div>
+</details>
 <br>
 
 ### <img width=25px src="../img/logo_square.png"> [Ageboomers 영상 Youtube 바로가기](링크)
