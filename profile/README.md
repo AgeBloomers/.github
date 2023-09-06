@@ -92,19 +92,19 @@ Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스�
 <details>
   <summary>목록 보기</summary>
   <div markdown="1">       
-    📌 react.js<br>
-    📌 tailwind css<br>
-    📌 NodeJS<br>
-    📌 npm<br>
-    📌 axios<br>
-    📌 jquery<br>
-    📌 Spring Framework<br>
-    📌 mysql<br>
-    📌 swagger<br>
-    📌 jasypt<br>
-    📌 lombok<br>
-    📌 jsoup<br>
-    📌 Docker<br>
+    ☑️ react.js<br>
+    ☑️ tailwind css<br>
+    ☑️ NodeJS<br>
+    ☑️ npm<br>
+    ☑️ axios<br>
+    ☑️ jquery<br>
+    ☑️ Spring Framework<br>
+    ☑️ mysql<br>
+    ☑️ swagger<br>
+    ☑️ jasypt<br>
+    ☑️ lombok<br>
+    ☑️ jsoup<br>
+    ☑️ Docker<br>
   </div>
 </details>
 <br>
