@@ -20,10 +20,13 @@
     <td align="center"><a href="https://github.com/TofuMango"><img src="https://github.com/AgeBloomers/.github/assets/65272297/14f35b8d-a482-44b4-8bfa-277dfd06f01f" width="200px;" alt=""/><br />이예지 (팀원)<br />(Frontend & Design)</td>
   </tr>
 </table>
+
 <br>
 
 ## 🌱 프로젝트 목적
-Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스를 제공함으로써 **사회적 문제 해결을 통한 가치 추구**와 **여러 세대의 삶의 질 개선에 초점**을 맞추고 있으며 현대 사회에서 발생하는 저출산과 고령화 문제에 대한 대안을 제공하는 서비스 입니다.<br>
+Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스를 제공함으로써 **사회적 문제 해결을 통한 가치 추구**와 **여러 세대의 삶의 질 개선에 초점**을 맞추고 있으며 현대 사회에서 발생하는 저출산과 고령화 문제에 대한 대안을 제공하는 서비스 입니다.
+
+<br>
 
 ## ⚙️ 개발 및 배포 환경
 **FrontEnd**
