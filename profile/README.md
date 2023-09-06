@@ -44,8 +44,13 @@ Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스�
 
 <br>
 
-## 💻 시스템 구성 및 아키텍처
+## 💻 시스템 아키텍처
 # <img width=900px src="https://github.com/AgeBloomers/.github/assets/65272297/8af715ce-54aa-4082-bed1-d44fe81be054">
+
+<br>
+
+## 🔖 기능 구조도
+# <img width=900px src="https://github.com/AgeBloomers/.github/assets/65272297/3c900204-7333-46b0-bb35-bf52b593d43d">
 
 <br>
 
