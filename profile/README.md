@@ -15,8 +15,8 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/iamsoojung"><img src="https://github.com/AgeBloomers/.github/assets/65272297/9c07a41c-0d21-4f43-b0c8-41206b2ece3e" width="200px;" alt=""/><br />김수정 (팀장)<br />(Backend & Server)</td>
-    <td align="center"><a href="https://github.com/jhw296"><img src="https://github.com/AgeBloomers/.github/assets/65272297/9c07a41c-0d21-4f43-b0c8-41206b2ece3e" width="200px;" alt=""/><br />조혜원 (팀원)<br />(Backend & Server)</td>
-    <td align="center"><a href="https://github.com/leeluse"><img src="https://github.com/AgeBloomers/.github/assets/65272297/9c07a41c-0d21-4f43-b0c8-41206b2ece3e" width="200px;" alt=""/><br />이수연 (팀원)<br />(Frontend & Design)</td>
+    <td align="center"><a href="https://github.com/jhw296"><img src="https://github.com/AgeBloomers/.github/assets/65272297/b395dfa5-04e1-41c4-96ed-1b965fbe1df0" width="200px;" alt=""/><br />조혜원 (팀원)<br />(Backend & Server)</td>
+    <td align="center"><a href="https://github.com/leeluse"><img src="https://github.com/AgeBloomers/.github/assets/65272297/453190b1-7492-4f6e-9f54-8bc8f50d8938" width="200px;" alt=""/><br />이수연 (팀원)<br />(Frontend & Design)</td>
     <td align="center"><a href="https://github.com/TofuMango"><img src="https://github.com/AgeBloomers/.github/assets/65272297/14f35b8d-a482-44b4-8bfa-277dfd06f01f" width="200px;" alt=""/><br />이예지 (팀원)<br />(Frontend & Design)</td>
   </tr>
 </table>
