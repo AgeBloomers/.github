@@ -1,5 +1,5 @@
 # <img width=25px src="../img/logo_square.png"> Age Bloomers
-# <img width=25px src="https://github.com/AgeBloomers/.github/assets/65272297/631e8306-9a7d-4e41-8477-31056a594e52"> Age Bloomers
+# <img width=25px src="https://github.com/AgeBloomers/.github/assets/65272297/63bf50f7-1feb-4275-ace2-d0c1a83f8abf"> Age Bloomers
 
 
 > **2023 공개SW 개발자 대회** <br/>
@@ -8,7 +8,7 @@
 > **저출산 및 고령화 문제 해결을 위한 맞춤형 웹 플랫폼**
 
 # <img width=600px src="../img/logo.png">
-# <img width=600px src="https://github.com/AgeBloomers/.github/assets/65272297/63bf50f7-1feb-4275-ace2-d0c1a83f8abf">
+# <img width=600px src="https://github.com/AgeBloomers/.github/assets/65272297/631e8306-9a7d-4e41-8477-31056a594e52">
 
 
 ## 🧑🏻‍💻 Age-bloomers Team
