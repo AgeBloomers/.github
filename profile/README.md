@@ -1,6 +1,5 @@
 # <img width=25px src="https://github.com/AgeBloomers/.github/assets/65272297/08f61200-1744-4597-88bc-5773833ae1db"> Age Bloomers
 
-
 > **2023 공개SW 개발자 대회** <br/>
 > **프로젝트 기간 : 2023.08.07(월) ~ 2023.09.07(목)**
 > 
@@ -8,6 +7,9 @@
 
 # <img width=600px src="https://github.com/AgeBloomers/.github/assets/65272297/f924d045-9f5b-4edb-8642-61f1ef1d6d11">
 
+### 📍개발 Repository
+[Agebloomers 프론트엔드](https://github.com/AgeBloomers/agebloomers-frontend) <br>
+[Agebloomers 백엔드](https://github.com/AgeBloomers/agebloomers-backend)
 
 ## 🧑🏻‍💻 Age-bloomers Team
 > "나이"와 "Bloomers"라는 용어를 결합한 것으로, Bloomers는 원래 노인들이 입는 속옷을 뜻하지만 여기서는 저출산과 고령화 문제를 극복하여 고령자들도 다시 "꽃피는(Blooming)" 시기로 돌아갈 수 있다는 메세지를 전하고자 한 팀명입니다!
