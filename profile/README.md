@@ -8,8 +8,8 @@
 # <img width=600px src="https://github.com/AgeBloomers/.github/assets/65272297/f924d045-9f5b-4edb-8642-61f1ef1d6d11">
 
 ### 📍개발 Repository
-[Agebloomers 프론트엔드](https://github.com/AgeBloomers/agebloomers-frontend) <br>
-[Agebloomers 백엔드](https://github.com/AgeBloomers/agebloomers-backend)
+- [Agebloomers 프론트엔드](https://github.com/AgeBloomers/agebloomers-frontend) <br>
+- [Agebloomers 백엔드](https://github.com/AgeBloomers/agebloomers-backend)
 
 ## 🧑🏻‍💻 Age-bloomers Team
 > "나이"와 "Bloomers"라는 용어를 결합한 것으로, Bloomers는 원래 노인들이 입는 속옷을 뜻하지만 여기서는 저출산과 고령화 문제를 극복하여 고령자들도 다시 "꽃피는(Blooming)" 시기로 돌아갈 수 있다는 메세지를 전하고자 한 팀명입니다!
