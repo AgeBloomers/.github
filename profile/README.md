@@ -64,7 +64,7 @@ Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스�
 <br>
 
 ## 📱 와이어 프레임
-[자세히 보기]()
+[자세히 보기](https://github.com/AgeBloomers/.github/blob/main/%EC%97%90%EC%9D%B4%EC%A7%80%EB%B8%94%EB%A3%A8%EB%A8%B8_wireframe.pdf)
 <br>
 
 ## 🧑🏻‍💻 프로젝트 주요 기능
