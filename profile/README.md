@@ -53,6 +53,11 @@ Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스�
 - 컨테이너화 : Docker
 - CI/CD 도구 : Github Actions
 
+**Collaboration tool**
+- Notion : 애자일 협업, 아이디어 공유, 회의록 작성, API 기록
+- Google Drive : 프로젝트 산출물 및 관련 문서 공유
+- Swagger : REST API 테스트
+
 <br>
 
 ## 💻 시스템 아키텍처
