@@ -1,4 +1,4 @@
-# <img width=25px src="https://github.com/AgeBloomers/.github/assets/65272297/08f61200-1744-4597-88bc-5773833ae1db"> Age Bloomers
+![image](https://github.com/AgeBloomers/.github/assets/65272297/e821a098-4cd8-4975-9eb1-80a8f2fe3a48)# <img width=25px src="https://github.com/AgeBloomers/.github/assets/65272297/08f61200-1744-4597-88bc-5773833ae1db"> Age Bloomers
 
 > **2023 공개SW 개발자 대회** <br/>
 > **프로젝트 기간 : 2023.08.07(월) ~ 2023.09.07(목)**
@@ -76,7 +76,8 @@ Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스�
 <br>
 
 ## 📱 와이어 프레임
-[자세히 보기](https://github.com/AgeBloomers/.github/blob/main/%EC%97%90%EC%9D%B4%EC%A7%80%EB%B8%94%EB%A3%A8%EB%A8%B8_wireframe.pdf)
+[스케치 보기](https://github.com/AgeBloomers/.github/blob/main/%EC%97%90%EC%9D%B4%EC%A7%80%EB%B8%94%EB%A3%A8%EB%A8%B8_wireframe.pdf)
+# <img width=900px src="https://github.com/AgeBloomers/.github/assets/65272297/0ebced51-8b6d-41ab-97a6-17178a1d0f88">
 
 <br>
 
