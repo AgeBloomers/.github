@@ -132,4 +132,4 @@ Age-Bloomers는 다양한 사용자 그룹에게 편리한 맞춤형 서비스�
 </details>
 <br>
 
-### <img width=25px src="../img/logo_square.png"> [Ageboomers 영상 Youtube 바로가기](링크)
+### <img width=25px src="../img/logo_square.png"> [Ageboomers 영상 Youtube 바로가기](https://youtu.be/fTjk2Bm-L40?si=iERhJX1ov_6ZO--Y)
